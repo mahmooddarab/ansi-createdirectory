@@ -1,6 +1,6 @@
 - name: ---------createdirectory-------------
   file:
-    path: /home/dir2
+    path: /home/DirectoryName
     state: directory
     owner: root
     group: root
